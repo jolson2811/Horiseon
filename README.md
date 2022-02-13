@@ -7,6 +7,7 @@
 * **Img Alt Attributes:** Added alt attributes to images in order to meet accessibility standards.
 * **Heading Attributes:** Updated heading attributes to fall in sequential order. 
 * **Concise Title:** Updated title element to better convey page content, improve accessibility and SEO.
+* **Condensed CSS:** Condensed CSS classes to be more efficient and follow semantic html structure.
 
 ## Built With
 * HTML
